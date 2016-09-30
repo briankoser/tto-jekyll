@@ -3,14 +3,14 @@ layout: default
 ---
 <article class="h-entry">
     <header>
-        <h1 class="post-title p-name">{{ page.long_title }}</h1>
-        <time class="post-date dt-published" datetime='{{ page.pub_date | date: "%Y-%m-%d%H:%i:%s" }}'>{{ page.pub_date | date: "%Y-%m-%d" }}</time>
+        <h1 class="post-title p-name">Episode {{ page.number }}: {{ page.title }}</h1>
+        <time class="post-date dt-published" datetime='{{ page.pub_date | date: "%Y-%m-%d%H:%i:%s" }}'>{{ page.pub_date }}</time>
     </header>
     
     <div class="e-content">
-        <audio src="{{ site.cdnlocation }}/{{ page.slug }}.mp3" preload="metadata" controls>
+        <audio src="http://{{ site.cdn_url }}/{{ page.slug }}.mp3" preload="metadata" controls>
         </audio>
-        <a href="{{ site.cdnlocation }}/{{ page.slug }}.mp3">Download</a>
+        <a href="http://{{ site.cdn_url }}/{{ page.slug }}.mp3">Download</a>
         
         <p>{{ page.description }}</p>
 

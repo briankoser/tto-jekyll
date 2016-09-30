@@ -40,7 +40,7 @@
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>No</itunes:explicit>
-		<itunes:image href="{{cdnlocation}}/tto/logo-feed.png" />
+		<itunes:image href="{{ site.cdn_url }}/tto/logo-feed.png" />
 		{% for episode in collections.episodes %}
 		<item>
 			<title>Ep. {{ episode.number }}: {{ episode.title }}</title>
