@@ -1,0 +1,61 @@
+---
+---
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:cc="http://web.resource.org/cc/"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+	<channel>
+		<title>Ten to One</title>
+		<atom:link href="{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
+		<link>{{ site.url }}</link>
+		<description>Brian and Melissa Koser make top ten lists of everything.</description>
+		<lastBuildDate>{{ now|date('r') }}</lastBuildDate>
+		<pubDate>{{ now|date('r') }}</pubDate>
+		<language>en-US</language>	
+		<copyright>Copyright © {{ now|date('Y') }} Brian and Melissa Koser</copyright>
+		<managingEditor>tto@koser.us (Melissa Koser)</managingEditor>
+		<webMaster>tto@koser.us (Brian Koser)</webMaster>
+		<image>
+			<url>{{ site.cdn_url }}/tto/logo-feed.png</url>
+			<title>Ten to One</title>
+			<link>{{ site.url }}</link>
+		</image>
+		<itunes:subtitle>Top Ten Lists of Everything</itunes:subtitle>
+		<itunes:summary>Brian and Melissa Koser make top ten lists of everything.</itunes:summary>
+		<itunes:keywords>Koser, Top, Ten, List, Brian, Melissa</itunes:keywords>
+		<itunes:category text="Games &#38; Hobbies">
+			<itunes:category text="Hobbies" />
+		</itunes:category>
+		<itunes:category text="Religion &#38; Spirituality">
+			<itunes:category text="Christianity" />
+		</itunes:category>
+		<itunes:author>Brian and Melissa Koser</itunes:author>
+		<itunes:owner>
+			<itunes:name>Melissa Koser</itunes:name>
+			<itunes:email>tto.koser.us</itunes:email>
+		</itunes:owner>
+		<itunes:block>no</itunes:block>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:image href="{{cdnlocation}}/tto/logo-feed.png" />
+		{% for episode in collections.episodes %}
+		<item>
+			<title>Ep. {{ episode.number }}: {{ episode.title }}</title>
+			<link>{{ site.location }}/{{ episode.slug }}/</link>
+			<guid isPermaLink="false">{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3</guid>
+			<description>{{ episode.description }}</description>
+			<enclosure url="{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3" length="{{ episode.bytes }}" type="audio/mpeg" />
+			<pubDate>{{ episode.pub_date | date('r') }}</pubDate>
+			<category>Podcasts</category>
+			
+			<itunes:duration>{{ episode.duration }}</itunes:duration>
+			<itunes:explicit>no</itunes:explicit>
+			<itunes:keywords>{{ episode.tags }}</itunes:keywords>
+			<itunes:block>no</itunes:block>
+		</item>
+		{% endfor %}
+	</channel>
+</rss>
