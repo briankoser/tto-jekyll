@@ -1,5 +1,6 @@
 ---
 title: Home
+layout: default
 description: Ten to One is a podcast where Brian and Melissa Koser make top ten lists about everything!
 ---
 

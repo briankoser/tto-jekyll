@@ -13,10 +13,10 @@
 		<atom:link href="{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
 		<link>{{ site.url }}</link>
 		<description>Brian and Melissa Koser make top ten lists of everything.</description>
-		<lastBuildDate>{{ now|date('r') }}</lastBuildDate>
-		<pubDate>{{ now|date('r') }}</pubDate>
+		<lastBuildDate>{{ site.time | date: 'r' }}</lastBuildDate>
+		<pubDate>{{ site.time | date: 'r' }}</pubDate>
 		<language>en-US</language>	
-		<copyright>Copyright © {{ now|date('Y') }} Brian and Melissa Koser</copyright>
+		<copyright>Copyright © {{ site.time | date: 'Y' }} Brian and Melissa Koser</copyright>
 		<managingEditor>tto@koser.us (Melissa Koser)</managingEditor>
 		<webMaster>tto@koser.us (Brian Koser)</webMaster>
 		<image>
@@ -48,7 +48,7 @@
 			<guid isPermaLink="false">{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3</guid>
 			<description>{{ episode.description }}</description>
 			<enclosure url="{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3" length="{{ episode.bytes }}" type="audio/mpeg" />
-			<pubDate>{{ episode.pub_date | date('r') }}</pubDate>
+			<pubDate>{{ episode.pub_date | date: 'r' }}</pubDate>
 			<category>Podcasts</category>
 			
 			<itunes:duration>{{ episode.duration }}</itunes:duration>

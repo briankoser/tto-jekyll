@@ -3,15 +3,15 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{{ page.short_title }} · {{ site.name }} </title>
+    <title>{{ page.title }} {% if page.title != '' %}·{% endif %} {{ site.name }} </title>
     <meta name="description" content="{{ page.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#006b9f">
     
     <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@bmkoser">
-    <meta property="og:url" content="{{ page.url }}">
-    <meta property="og:title" content="{{ page.short_title }}">
+    <meta property="og:url" content="http://{{ site.url }}{{ page.url }}">
+    <meta property="og:title" content="{{ page.title }}">
     <meta property="og:description" content="{{ page.description }}">
     <meta property="og:image" content="http://tto.koser.us/tile.png">
     <meta property="og:image:type" content="image/png" />
@@ -28,7 +28,7 @@
 <body>
     <div class="header-container">
         <header role="banner" class="clearfix">
-            <h1 class="site-title"><a href="/">{{sitename}}</a></h1>
+            <h1 class="site-title"><a href="/">{{ site.name }}</a></h1>
             <a href="#menu" class="menu-link">≡ Menu</a>
             <nav id="menu" role="navigation" class="site-nav">
                 <ul class="horizontal">

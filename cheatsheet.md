@@ -1,5 +1,6 @@
 ---
 title: "Editing Cheatsheet"
+layout: default
 description: Brian and Melissa Koser's editing cheatsheet for Ten to One.
 ---
 

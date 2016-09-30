@@ -1,5 +1,6 @@
 ---
 title: About
+layout: default
 description: About Brian and Melissa Koser, hosts of the Ten to One podcast
 ---
 
