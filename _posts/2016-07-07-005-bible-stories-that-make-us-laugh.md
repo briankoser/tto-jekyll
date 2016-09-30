@@ -6,8 +6,8 @@ description: Melissa and Brian take turns telling stories from the Bible that ma
 pub_date: 2016-07-07
 slug: 005-bible-stories-that-make-us-laugh
 bytes: 19841024
-duration: 0:41:19
-tags: bible humor
+duration: '0:41:19'
+tags: ['bible', 'humor']
 ---
 
 <ol reversed>

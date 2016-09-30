@@ -6,8 +6,8 @@ description: Brian and Melissa find ten books, movies, and TV shows that they th
 pub_date: 2016-07-22
 slug: 007-recommendations-for-my-spouse
 bytes: 16134325
-duration: 0:33:36
-tags: tv movies books
+duration: '0:33:36'
+tags: ['tv', 'movies', 'books']
 ---
 
 <h2>Melissa</h2>

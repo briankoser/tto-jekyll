@@ -6,8 +6,8 @@ description: Brian and Melissa list ten authors who work they’re excited to ch
 pub_date: 2016-08-19
 slug: 011-authors-ive-never-read-but-want-to
 bytes: 18119845
-duration: 0:37:45
-tags: books authors
+duration: '0:37:45'
+tags: ['books', 'authors']
 ---
 
 <h2>Melissa</h2>

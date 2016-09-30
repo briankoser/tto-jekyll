@@ -6,8 +6,8 @@ description: Brian and Melissa list ten goals they’d like to accomplish.
 pub_date: 2016-08-05
 slug: 009-accomplishments
 bytes: 22119904
-duration: 0:46:05
-tags: accomplishments goals
+duration: '0:46:05'
+tags: ['accomplishments', 'goals']
 ---
 
 <h2>Melissa</h2>

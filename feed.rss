@@ -10,22 +10,22 @@
 >
 	<channel>
 		<title>Ten to One</title>
-		<atom:link href="{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
-		<link>{{ site.url }}</link>
-		<description>Brian and Melissa Koser make top ten lists of everything.</description>
-		<lastBuildDate>{{ site.time | date: 'r' }}</lastBuildDate>
-		<pubDate>{{ site.time | date: 'r' }}</pubDate>
+		<atom:link href="http://{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
+		<link>http://{{ site.url }}</link>
+		<description>Melissa and Brian Koser make top ten lists of everything.</description>
+		<lastBuildDate>{{ site.time | date: '%a, %d %b %Y %T' }} +0000</lastBuildDate>
+		<pubDate>{{ site.time | date: '%a, %d %b %Y %T' }} +0000</pubDate>
 		<language>en-US</language>	
-		<copyright>Copyright © {{ site.time | date: 'Y' }} Brian and Melissa Koser</copyright>
+		<copyright>Copyright © {{ site.time | date: '%Y' }} Melissa and Brian Koser</copyright>
 		<managingEditor>tto@koser.us (Melissa Koser)</managingEditor>
 		<webMaster>tto@koser.us (Brian Koser)</webMaster>
 		<image>
-			<url>{{ site.cdn_url }}/tto/logo-feed.png</url>
+			<url>http://{{ site.cdn_url }}/img/logo-album.png</url>
 			<title>Ten to One</title>
-			<link>{{ site.url }}</link>
+			<link>http://{{ site.url }}</link>
 		</image>
 		<itunes:subtitle>Top Ten Lists of Everything</itunes:subtitle>
-		<itunes:summary>Brian and Melissa Koser make top ten lists of everything.</itunes:summary>
+		<itunes:summary>Melissa and Brian Koser make top ten lists of everything.</itunes:summary>
 		<itunes:keywords>Koser, Top, Ten, List, Brian, Melissa</itunes:keywords>
 		<itunes:category text="Games &#38; Hobbies">
 			<itunes:category text="Hobbies" />
@@ -33,27 +33,27 @@
 		<itunes:category text="Religion &#38; Spirituality">
 			<itunes:category text="Christianity" />
 		</itunes:category>
-		<itunes:author>Brian and Melissa Koser</itunes:author>
+		<itunes:author>Melissa and Brian Koser</itunes:author>
 		<itunes:owner>
 			<itunes:name>Melissa Koser</itunes:name>
-			<itunes:email>tto.koser.us</itunes:email>
+			<itunes:email>tto@koser.us</itunes:email>
 		</itunes:owner>
 		<itunes:block>no</itunes:block>
 		<itunes:explicit>No</itunes:explicit>
-		<itunes:image href="{{ site.cdn_url }}/tto/logo-feed.png" />
-		{% for episode in collections.episodes %}
+		<itunes:image href="http://{{ site.cdn_url }}/img/logo-album.png" />
+		{% for episode in site.posts %}
 		<item>
 			<title>Ep. {{ episode.number }}: {{ episode.title }}</title>
-			<link>{{ site.location }}/{{ episode.slug }}/</link>
-			<guid isPermaLink="false">{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3</guid>
+			<link>http://{{ site.url }}/</link>
+			<guid isPermaLink="false">http://{{ site.cdn_url }}/{{ episode.slug }}.mp3</guid>
 			<description>{{ episode.description }}</description>
-			<enclosure url="{{ site.cdn_url }}/tto/{{ episode.slug }}.mp3" length="{{ episode.bytes }}" type="audio/mpeg" />
-			<pubDate>{{ episode.pub_date | date: 'r' }}</pubDate>
+			<enclosure url="http://{{ site.cdn_url }}/{{ episode.slug }}.mp3" length="{{ episode.bytes }}" type="audio/mpeg" />
+			<pubDate>{{ episode.pub_date | date: '%a, %d %b %Y %T' }} +0000</pubDate>
 			<category>Podcasts</category>
 			
 			<itunes:duration>{{ episode.duration }}</itunes:duration>
 			<itunes:explicit>no</itunes:explicit>
-			<itunes:keywords>{{ episode.tags }}</itunes:keywords>
+			<itunes:keywords>top ten {{ episode.tags | join: ' ' }}</itunes:keywords>
 			<itunes:block>no</itunes:block>
 		</item>
 		{% endfor %}

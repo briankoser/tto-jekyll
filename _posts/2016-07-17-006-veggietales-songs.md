@@ -6,8 +6,8 @@ description: Melissa and Brian tell (and maybe sing a little of) their favorite 
 pub_date: 2016-07-17
 slug: 006-veggietales-songs
 bytes: 12685312
-duration: 0:26:25
-tags: tv
+duration: '0:26:25'
+tags: ['tv']
 ---
 
 <h2>Brian</h2>

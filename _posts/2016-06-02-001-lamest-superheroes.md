@@ -3,11 +3,11 @@ layout: episode
 number: 1
 title: Lamest Superheroes
 description: This week Brian and Melissa each invent ten lame superheroes with lame superpowers. These characters would be right at home on The Tick or Mystery Men. 
-pub_date: 2016-04-18
+pub_date: 2016-06-02
 slug: 001-lamest-superheroes
 bytes: 13373066
-duration: 0:27:51
-tags: superheroes
+duration: '0:27:51'
+tags: ['superheroes']
 ---
 
 <h2>Melissa</h2>

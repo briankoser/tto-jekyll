@@ -6,8 +6,8 @@ description: Melissa and Brian each tell the ten worst things they’ve swallowe
 pub_date: 2016-08-12
 slug: 010-worst-things-ive-ever-ingested
 bytes: 21829647
-duration: 0:45:28
-tags: worst food drink
+duration: '0:45:28'
+tags: ['worst', 'food', 'drink']
 ---
 
 <h2>Brian</h2>
