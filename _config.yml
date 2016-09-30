@@ -1,0 +1,14 @@
+name: 'Ten to One'
+url: 'tto.koser.us'
+author: 'Brian Koser'
+
+subheading: 'The podcast where we make top ten lists about everything!'
+timezone: 'America/Chicago'
+
+permalink: '/episodes/:title/'
+# paginate: 10
+# paginate_path: '/blog/page:num/'
+
+exclude: ['LICENSE.txt', 'README.md']
+
+highlighter: false
