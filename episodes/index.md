@@ -8,7 +8,7 @@ description: The podcast where we make top ten lists about everything!
 {% for post in site.posts %}
 <article>
     <header>
-        <h2 class="post-title"><a href="/{{ post.url }}">#{{ post.number }}: {{ post.title | escape }}</a></h2>
+        <h2 class="post-title"><a href="{{ post.url }}">#{{ post.number }}: {{ post.title | escape }}</a></h2>
         <span class="post-date">
             <svg class="icon icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
             {{ post.pub_date }}

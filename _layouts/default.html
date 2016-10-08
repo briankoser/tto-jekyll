@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <meta http-equiv="x-ua-compatible" content="ie=edge">
-    <title>{% if page.number != '' %}Ep. {{ page.number}}: {% endif %} {{ page.title }} {% if page.title != '' %}·{% endif %} {{ site.name }} </title>
+    <title>{% if page.number != null %}Ep. {{ page.number}}: {% endif %} {{ page.title }} {% if page.title != '' %}·{% endif %} {{ site.name }} </title>
     <meta name="description" content="{{ page.description }}">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#006b9f">
