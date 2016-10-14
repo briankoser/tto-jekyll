@@ -12,39 +12,36 @@ tags: ['animated movies']
 
 <h2>Brian</h2>
 <ol reversed>
-<li><a href="">Howl's Moving Castle</a></li>
-<li><a href="">Monsters Inc.</a></li>
-<li><a href="">Inside Out</a></li>
-<li><a href="">The Emperor's New Groove</a></li>
-<li><a href="">Toy Story 2</a></li>
-<li><a href="">The Incredibles</a></li>
-<li><a href="">Prince of Egypt</a></li>
-<li><a href="">Aladdin</a></li>
-<li><a href="">The Rescuers Down Under</a></li>
-<li><a href="">Beauty and the Beast</a></li>
+<li><a href="https://www.themoviedb.org/movie/4935">Howl’s Moving Castle</a></li>
+<li><a href="https://www.themoviedb.org/movie/585-monsters-inc">Monsters Inc.</a></li>
+<li><a href="https://www.themoviedb.org/movie/150540-inside-out">Inside Out</a></li>
+<li><a href="https://www.themoviedb.org/movie/11688-the-emperor-s-new-groove">The Emperor’s New Groove</a></li>
+<li><a href="https://www.themoviedb.org/movie/863-toy-story-2">Toy Story 2</a></li>
+<li><a href="https://www.themoviedb.org/movie/9806-the-incredibles">The Incredibles</a></li>
+<li><a href="https://www.themoviedb.org/movie/9837-the-prince-of-egypt">Prince of Egypt</a></li>
+<li><a href="https://www.themoviedb.org/movie/812-aladdin">Aladdin</a></li>
+<li><a href="https://www.themoviedb.org/movie/11135-the-rescuers-down-under">The Rescuers Down Under</a></li>
+<li><a href="https://www.themoviedb.org/movie/10020-beauty-and-the-beast">Beauty and the Beast</a></li>
 </ol>
 
 <h2>Melissa</h2>
 <ol reversed>
-<ol reversed>
-<li><a href="">Ice Age</a></li>
-<li><a href="">Ducktales: Treasure of the Lost Lamp</a></li>
-<li><a href="">Mulan</a></li>
-<li><a href="">Megamind</a></li>
-<li><a href="">The Emperor's New Groove</a></li>
-<li><a href="">Rise of the Guardians</a></li>
-<li><a href="">Prince of Egypt</a></li>
-<li><a href="">Aladdin</a></li>
-<li><a href="">Rescuers Down Under</a></li>
-<li><a href="">Beauty and the Beast</a></li>
+<li><a href="https://www.themoviedb.org/movie/425-ice-age">Ice Age</a></li>
+<li><a href="https://www.themoviedb.org/movie/10837-ducktales-the-movie-treasure-of-the-lost-lamp">Ducktales: Treasure of the Lost Lamp</a></li>
+<li><a href="https://www.themoviedb.org/movie/10674-mulan">Mulan</a></li>
+<li><a href="https://www.themoviedb.org/movie/38055-megamind">Megamind</a></li>
+<li><a href="https://www.themoviedb.org/movie/11688-the-emperor-s-new-groove">The Emperor’s New Groove</a></li>
+<li><a href="https://www.themoviedb.org/movie/81188-rise-of-the-guardians">Rise of the Guardians</a></li>
+<li><a href="https://www.themoviedb.org/movie/9837-the-prince-of-egypt">Prince of Egypt</a></li>
+<li><a href="https://www.themoviedb.org/movie/812-aladdin">Aladdin</a></li>
+<li><a href="https://www.themoviedb.org/movie/11135-the-rescuers-down-under">Rescuers Down Under</a></li>
+<li><a href="https://www.themoviedb.org/movie/10020-beauty-and-the-beast">Beauty and the Beast</a></li>
 </ol>
 
 <h2>Notes</h2>
 <ul>
-    <li><a href="https://en.m.wikipedia.org/wiki/Merchant_of_Venus">Wikipedia</a> says the pun was intentional. I don’t know how you can get more authoritative. 😀</li>
+<li><a href="">Megamind, “Presentation!”</a></li>
+<li><a href="">Toy Story, Jurassic Park reference</a></li>
+<li><a href="">The Rescuers Down Under, Wilbur in the hospital</a></li>
+<li><a href="">Reese’s Peanut Butter Cups commercial</a> - The actor with glasses voiced Beast on <a href="">Beauty and the Beast</a></li>
 </ul>
-
-- Reese's cups commercial
-- Toy Story, Jurassic Park
-- Megamind, "Presentation!"
-- Wilbur in hospital
