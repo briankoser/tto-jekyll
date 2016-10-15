@@ -193,6 +193,10 @@ summary + * {
     margin-top: 1.4em;
 }
 
+summary {
+    cursor: pointer;
+}
+
 
 
 /******************************************************************************
@@ -868,6 +872,11 @@ hr.fleuron::after {
 
 .top-list-images li {
     min-height: 300px;
+}
+
+.video-embed + p {
+    margin-top: 0;
+    font-style: italic;
 }
 
 

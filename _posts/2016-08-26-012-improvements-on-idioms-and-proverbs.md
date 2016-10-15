@@ -3,7 +3,7 @@ layout: episode
 number: 12
 title: Improvements on Idioms and Proverbs 
 description: Melissa and Brian make their own personal improvements to ten common English idioms and proverbs. 
-pubdate: 2016-08-26
+pub_date: 2016-08-26
 slug: 012-improvements-on-idioms-and-proverbs
 bytes: 13080721
 duration: '0:27:15'

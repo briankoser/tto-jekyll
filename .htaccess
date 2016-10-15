@@ -355,6 +355,8 @@ AddDefaultCharset utf-8
     RewriteRule ^13$ /episodes/013-top-ten-lists-well-never-do/ [R=permanent,L]
     RewriteRule ^14$ /episodes/014-animals/ [R=permanent,L]
     RewriteRule ^15$ /episodes/015-catchphrases-of-shane/ [R=permanent,L]
+    RewriteRule ^16$ /episodes/016-board-game-names/ [R=permanent,L]
+    RewriteRule ^17$ /episodes/017-animated-movies/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------

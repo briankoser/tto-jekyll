@@ -3,10 +3,10 @@ layout: episode
 number: 17
 title: Top Ten Animated Movies 
 description: Brian and Melissa list their favorite animated movies.  
-pubdate: 2016-10-14
+pub_date: 2016-10-14
 slug: 017-animated-movies
-bytes: 
-duration: '0:00:00'
+bytes: 33451150
+duration: '0:55:45'
 tags: ['animated movies']
 ---
 
@@ -39,9 +39,15 @@ tags: ['animated movies']
 </ol>
 
 <h2>Notes</h2>
-<ul>
-<li><a href="">Megamind, “Presentation!”</a></li>
-<li><a href="">Toy Story, Jurassic Park reference</a></li>
-<li><a href="">The Rescuers Down Under, Wilbur in the hospital</a></li>
-<li><a href="">Reese’s Peanut Butter Cups commercial</a> - The actor with glasses voiced Beast on <a href="">Beauty and the Beast</a></li>
-</ul>
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/dy2zB8bLSpk" frameborder="0" allowfullscreen></iframe>
+<p>Megamind, “Presentation!”</p>
+
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/kX4ABefuIQg?t=1m20s" frameborder="0" allowfullscreen></iframe>
+Toy Story, Jurassic Park reference
+
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/ddh9Oi9hJxY" frameborder="0" allowfullscreen></iframe>
+<p>The Rescuers Down Under, Wilbur in the hospital</p>
+
+<iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/gwGQ_w9lgHw" frameborder="0" allowfullscreen></iframe>
+<p>Reese’s Peanut Butter Cups commercial<br>
+The actor with glasses voiced Beast on <a href="https://www.themoviedb.org/movie/10020-beauty-and-the-beast">Beauty and the Beast</a></p>

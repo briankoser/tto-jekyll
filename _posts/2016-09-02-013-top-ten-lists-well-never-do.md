@@ -3,7 +3,7 @@ layout: episode
 number: 13
 title: Top Ten Lists We’ll Never Do 
 description: For unlucky number 13, Brian and Melissa reveal the top ten lists that will never appear on the podcast.  
-pubdate: 2016-09-02
+pub_date: 2016-09-02
 slug: 013-top-ten-lists-well-never-do
 bytes: 10636278
 duration: '0:22:09'

@@ -3,7 +3,7 @@ layout: episode
 number: 16
 title: Top Ten Board Game Names 
 description: Brian and Melissa discuss their favorite board game names. The word “evocative” is used a lot.  
-pubdate: 2016-10-07
+pub_date: 2016-10-07
 slug: 016-board-game-names
 bytes: 25789000
 duration: '0:44:01'

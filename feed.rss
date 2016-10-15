@@ -10,8 +10,8 @@
 >
 	<channel>
 		<title>Ten to One</title>
-		<atom:link href="http://{{ site.url }}/feed.rss" rel="self" type="application/rss+xml" />
-		<link>http://{{ site.url }}</link>
+		<atom:link href="http://{{ site.site_url }}/feed.rss" rel="self" type="application/rss+xml" />
+		<link>http://{{ site.site_url }}</link>
 		<description>Melissa and Brian Koser make top ten lists of everything.</description>
 		<lastBuildDate>{{ site.time | date: '%a, %d %b %Y %T' }} +0000</lastBuildDate>
 		<pubDate>{{ site.time | date: '%a, %d %b %Y %T' }} +0000</pubDate>
@@ -22,7 +22,7 @@
 		<image>
 			<url>http://{{ site.cdn_url }}/img/logo-album.png</url>
 			<title>Ten to One</title>
-			<link>http://{{ site.url }}</link>
+			<link>http://{{ site.site_url }}</link>
 		</image>
 		<itunes:subtitle>Top Ten Lists of Everything</itunes:subtitle>
 		<itunes:summary>Melissa and Brian Koser make top ten lists of everything.</itunes:summary>
@@ -44,7 +44,7 @@
 		{% for episode in site.posts %}
 		<item>
 			<title>Ep. {{ episode.number }}: {{ episode.title }}</title>
-			<link>http://{{ site.url }}/</link>
+			<link>http://{{ site.site_url }}/</link>
 			<guid isPermaLink="false">http://{{ site.cdn_url }}/{{ episode.slug }}.mp3</guid>
 			<description>{{ episode.description }}</description>
 			<enclosure url="http://{{ site.cdn_url }}/{{ episode.slug }}.mp3" length="{{ episode.bytes }}" type="audio/mpeg" />
