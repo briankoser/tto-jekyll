@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 17
-title: Top Ten Animated Movies 
+title: Animated Movies 
 description: Brian and Melissa list their favorite animated movies.  
 pub_date: 2016-10-14
 slug: 017-animated-movies
@@ -43,7 +43,7 @@ tags: ['animated movies']
 <p>Megamind, “Presentation!”</p>
 
 <iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/kX4ABefuIQg?t=1m20s" frameborder="0" allowfullscreen></iframe>
-Toy Story, Jurassic Park reference
+<p>Toy Story, Jurassic Park reference (1:20)</p>
 
 <iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/ddh9Oi9hJxY" frameborder="0" allowfullscreen></iframe>
 <p>The Rescuers Down Under, Wilbur in the hospital</p>

@@ -41,5 +41,5 @@ tags: ['worst', 'food', 'drink']
 
 <h2>Notes</h2>
 <ul>
-<li>[www.ihatecilantro.com](http://www.ihatecilantro.com)</li>
+<li><a href="http://www.ihatecilantro.com">www.ihatecilantro.com</a></li>
 </ul>

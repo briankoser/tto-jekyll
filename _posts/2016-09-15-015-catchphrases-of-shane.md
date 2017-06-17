@@ -1,7 +1,7 @@
 ---
 layout: episode
 number: 15
-title: Top Ten Catchphrases of Shane 
+title: Catchphrases of Shane 
 description: Brian and Melissa reveal their favorite catchphrases of their friend Shane.  
 pub_date: 2016-09-15
 slug: 015-catchphrases-of-shane

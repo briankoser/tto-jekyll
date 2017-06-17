@@ -24,7 +24,7 @@ tags: ['tv', 'movies', 'books']
 <li><a href="https://letterboxd.com/film/the-buccaneer/">The Buccaneer</a> (1958)</li>
 </ol>
 
-<h3>Honorable Mentions</h2>
+<h3>Honorable Mentions</h3>
 <ul>
 <li><a href="https://letterboxd.com/film/across-the-great-divide/">Across the Great Divide</a> (1976)</li>
 <li><a href="https://letterboxd.com/film/the-bridge-on-the-river-kwai/">Bridge on the River Kwai</a> (1957)</li>
