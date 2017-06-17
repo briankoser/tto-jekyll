@@ -671,6 +671,10 @@ hr.fleuron::after {
     max-height: 5.3em;
 }
 
+.contact {
+    margin-top: 3em;
+}
+
 .edit-block {
     border-left: 0.5rem solid;
     display: block;
@@ -877,6 +881,14 @@ hr.fleuron::after {
 .video-embed + p {
     margin-top: 0;
     font-style: italic;
+}
+
+.video-embed + p > i {
+    font-style: normal;
+}
+
+ol iframe {
+    margin-bottom: 1.4em;
 }
 
 
