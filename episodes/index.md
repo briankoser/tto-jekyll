@@ -15,7 +15,7 @@ description: The podcast where we make top ten lists about everything!
         </span>
         <span class="post-comments">
             <svg class="icon icon-bubble"><use xlink:href="#icon-bubble"></use></svg>
-            <a href="/{{ post.url }}#disqus_thread">Comments</a>
+            <a href="http://{{ site.site_url }}{{ post.url }}#disqus_thread">Comments</a>
         </span>
     </header>
 </article>
