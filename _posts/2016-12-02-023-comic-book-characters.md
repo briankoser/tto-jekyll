@@ -7,7 +7,7 @@ pub_date: 2016-12-02
 slug: 023-comic-book-characters
 bytes: 45866626
 duration: '1:16:26'
-tags: ['guest comics characters']
+tags: ['guest', 'comics', 'characters']
 ---
 
 <h2>Brian</h2>

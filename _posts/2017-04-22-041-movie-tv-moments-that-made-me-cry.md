@@ -7,7 +7,7 @@ pub_date: 2017-04-22
 slug: 041-movie-tv-moments-that-made-me-cry
 bytes: 29204957
 duration: '0:48:40'
-tags: ['tv movies']
+tags: ['tv', 'movies']
 ---
 
 <h2>Brian</h2>

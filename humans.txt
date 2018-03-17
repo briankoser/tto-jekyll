@@ -8,10 +8,8 @@
 
 # TECHNOLOGY COLOPHON
 
+    jekyll
     css: Normalize.css
     js: jQuery
-    node: metalsmith
     software: Github for Windows, Visual Studio Code, Notepad++, MarkdownPad2
     webhost: NearlyFreeSpeech.net
-    
-# CREDIT

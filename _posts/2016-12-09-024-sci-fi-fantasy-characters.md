@@ -7,7 +7,7 @@ pub_date: 2016-12-09
 slug: 024-sci-fi-fantasy-characters
 bytes: 31066696
 duration: '0:51:46'
-tags: ['characters science-fiction fantasy']
+tags: ['characters', 'science-fiction', 'fantasy']
 ---
 
 <h2>Brian</h2>

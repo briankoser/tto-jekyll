@@ -7,7 +7,7 @@ pub_date: 2016-12-17
 slug: 025-advice-after-five-years-of-marriage
 bytes: 30247244
 duration: '0:50:24'
-tags: ['personal marriage']
+tags: ['personal', 'marriage']
 ---
 
 <ol reversed>

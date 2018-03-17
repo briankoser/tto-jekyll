@@ -7,7 +7,7 @@ pub_date: 2017-05-14
 slug: 044-pop-culture-quotes
 bytes: 20020550
 duration: '0:33:22'
-tags: ['tv movies youtube quotes']
+tags: ['tv', 'movies', 'youtube', 'quotes']
 ---
 
 <h2>Brian</h2>
@@ -29,7 +29,7 @@ tags: ['tv movies youtube quotes']
     <iframe style="border:none; display:block; width:560px; height:401px;" class="video-embed" src="https://getyarn.io/yarn-clip/embed/953b3ee6-1df1-4361-91ae-5d30d54e271a?autoplay=false" allowfullscreen seamless frameborder="0"></iframe>
 </li>
 <li>
-    <h3>“Didja?” (The Rescuers Down Under) - </h3>
+    <h3>“Didja?” (The Rescuers Down Under)</h3>
     <iframe class="video-embed" width="560" height="315" src="https://www.youtube.com/embed/rHmjiPLpKVk" frameborder="0" allowfullscreen></iframe>
 </li>
 <li>

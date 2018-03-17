@@ -7,7 +7,7 @@ pub_date: 2016-11-11
 slug: 020-fictional-creatures
 bytes: 45897449
 duration: '1:16:29'
-tags: ['fiction guest']
+tags: ['fiction', 'guest']
 ---
 
 <h2>Melissa</h2>

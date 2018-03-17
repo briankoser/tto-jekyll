@@ -7,7 +7,7 @@ pub_date: 2017-03-11
 slug: 035-lost-characters
 bytes: 52059730
 duration: '1:26:46'
-tags: ['tv lost-month characters']
+tags: ['tv', 'lost-month', 'characters']
 ---
 
 <h2>Brian</h2>

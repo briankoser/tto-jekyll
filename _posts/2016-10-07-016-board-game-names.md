@@ -7,7 +7,7 @@ pub_date: 2016-10-07
 slug: 016-board-game-names
 bytes: 25789000
 duration: '0:44:01'
-tags: ['board games names']
+tags: ['board', 'games', 'names']
 ---
 
 <h2>Melissa</h2>

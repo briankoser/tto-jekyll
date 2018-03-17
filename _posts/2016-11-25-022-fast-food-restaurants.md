@@ -7,7 +7,7 @@ pub_date: 2016-11-25
 slug: 022-fast-food-restaurants
 bytes: 42532618
 duration: '1:10:53'
-tags: ['food restaurants']
+tags: ['food', 'restaurants']
 ---
 
 <h2>Melissa</h2>

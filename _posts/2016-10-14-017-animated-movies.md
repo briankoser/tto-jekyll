@@ -7,7 +7,7 @@ pub_date: 2016-10-14
 slug: 017-animated-movies
 bytes: 33451150
 duration: '0:55:45'
-tags: ['animated movies']
+tags: ['animated', 'movies']
 ---
 
 <h2>Brian</h2>

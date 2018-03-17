@@ -3,7 +3,7 @@ layout: episode
 number: 50
 title: Questions from the Listeners
 description: Brian and Melissa answer questions from you, the listeners.
-pub_date: 2017-06-24
+pub_date: 2017-06-23
 slug: 050-questions-from-the-listeners
 bytes: 35425490
 duration: '0:59:02'
@@ -22,13 +22,3 @@ tags: ['milestone']
 <li>(Luke) If you were guaranteed survival, would you want to go on a Legend of Zelda-type quest?</li>
 <li>(Lindsey) What to you would be the most epic family vacation?</li>
 </ol>
-
-
-
-
-
-
-
-
-
-

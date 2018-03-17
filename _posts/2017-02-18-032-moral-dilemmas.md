@@ -7,7 +7,7 @@ pub_date: 2017-02-18
 slug: 032-moral-dilemmas
 bytes: 29832256
 duration: '0:49:42'
-tags: ['morality ethics']
+tags: ['morality', 'ethics']
 ---
 
 <ol reversed>

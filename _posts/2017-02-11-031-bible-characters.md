@@ -7,7 +7,7 @@ pub_date: 2017-02-11
 slug: 031-bible-characters
 bytes: 48576834
 duration: '1:07:27'
-tags: ['bible characters']
+tags: ['bible', 'characters']
 ---
 
 <h2>Brian</h2>

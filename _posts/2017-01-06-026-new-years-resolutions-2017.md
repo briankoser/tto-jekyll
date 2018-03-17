@@ -7,7 +7,7 @@ pub_date: 2017-01-06
 slug: 026-new-years-resolutions-2017
 bytes: 29325374
 duration: '0:48:52'
-tags: ['personal resolutions goals']
+tags: ['personal', 'resolutions', 'goals']
 ---
 
 <h2>Melissa</h2>

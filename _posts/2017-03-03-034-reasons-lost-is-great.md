@@ -7,7 +7,7 @@ pub_date: 2017-03-03
 slug: 034-reasons-lost-is-great
 bytes: 43154071
 duration: '1:11:55'
-tags: ['tv lost-month']
+tags: ['tv', 'lost-month']
 ---
 
 <h2>Totally Not Shoehorned Top Ten</h2>

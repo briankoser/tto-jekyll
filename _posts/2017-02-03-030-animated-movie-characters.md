@@ -7,7 +7,7 @@ pub_date: 2017-02-03
 slug: 030-animated-movie-characters
 bytes: 48576834
 duration: '1:20:57'
-tags: ['movie animated characters guest']
+tags: ['movie', 'animated', 'characters', 'guest']
 ---
 
 <h2>Melissa</h2>

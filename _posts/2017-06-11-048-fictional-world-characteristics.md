@@ -7,7 +7,7 @@ pub_date: 2017-06-11
 slug: 048-fictional-world-characteristics
 bytes: 34432579
 duration: '0:57:23'
-tags: ['books tv movies']
+tags: ['books', 'tv', 'movies']
 ---
 
 <h2>Melissa</h2>

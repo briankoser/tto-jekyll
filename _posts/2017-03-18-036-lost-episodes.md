@@ -7,7 +7,7 @@ pub_date: 2017-03-18
 slug: 036-lost-episodes
 bytes: 62675369
 duration: '1:44:27'
-tags: ['tv lost-month episodes']
+tags: ['tv', 'lost-month', 'episodes']
 ---
 
 <h2>Melissa</h2>

@@ -7,7 +7,7 @@ pub_date: 2017-05-26
 slug: 045-super-characteristics-of-my-spouse
 bytes: 12537007
 duration: '0:20:53'
-tags: ['superheroes villains personal']
+tags: ['superheroes', 'villains', 'personal']
 ---
 
 <h2>Brian</h2>
