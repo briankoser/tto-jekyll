@@ -409,6 +409,12 @@ AddDefaultCharset utf-8
     RewriteRule ^67$ /episodes/067-bucket-list-foods/ [R=permanent,L]
     RewriteRule ^68$ /episodes/068-book-titles/ [R=permanent,L]
     RewriteRule ^69$ /episodes/069-funny-bible-names/ [R=permanent,L]
+    RewriteRule ^70$ /episodes/070-comedians/ [R=permanent,L]
+    RewriteRule ^71$ /episodes/071-reasons-were-starting-a-diet/ [R=permanent,L]
+    RewriteRule ^72$ /episodes/072-doctor-who-characters/ [R=permanent,L]
+    RewriteRule ^73$ /episodes/073-doctor-who-aliens/ [R=permanent,L]
+    RewriteRule ^74$ /episodes/074-doctor-who-episodes/ [R=permanent,L]
+    RewriteRule ^75$ /episodes/075-doctor-who-moments/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------
