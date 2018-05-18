@@ -415,6 +415,9 @@ AddDefaultCharset utf-8
     RewriteRule ^73$ /episodes/073-doctor-who-aliens/ [R=permanent,L]
     RewriteRule ^74$ /episodes/074-doctor-who-episodes/ [R=permanent,L]
     RewriteRule ^75$ /episodes/075-doctor-who-moments/ [R=permanent,L]
+    RewriteRule ^76$ /episodes/076-doctor-who-series/ [R=permanent,L]
+    RewriteRule ^77$ /episodes/077-root-beers/ [R=permanent,L]
+    RewriteRule ^78$ /episodes/078-cartoon-theme-songs/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------
