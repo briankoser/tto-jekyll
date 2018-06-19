@@ -11,5 +11,6 @@
     jekyll
     css: Normalize.css
     js: jQuery
+    icons: icomoon
     software: Github for Windows, Visual Studio Code, Notepad++, MarkdownPad2
     webhost: NearlyFreeSpeech.net
