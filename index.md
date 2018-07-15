@@ -6,8 +6,8 @@ description: Ten to One is a podcast where Brian and Melissa Koser make top ten 
 Welcome to Ten to One, the podcast where we make top ten lists about everything!
 
 <h2>Featured Episode</h2>
-<h3>Episode 64: Great Songs</h3>
-<audio src="http://{{ site.cdn_url }}/064-great-songs.mp3" preload="metadata" controls></audio>
+<h3>Episode 82: Reasons to Read Books</h3>
+<audio src="http://{{ site.cdn_url }}/082-reasons-to-read-books.mp3" preload="metadata" controls></audio>
 
 <h2>News</h2>
 

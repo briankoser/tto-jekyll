@@ -418,7 +418,11 @@ AddDefaultCharset utf-8
     RewriteRule ^76$ /episodes/076-doctor-who-series/ [R=permanent,L]
     RewriteRule ^77$ /episodes/077-root-beers/ [R=permanent,L]
     RewriteRule ^78$ /episodes/078-cartoon-theme-songs/ [R=permanent,L]
-    RewriteRule ^79$ /episodes/079-midwest-road-trip-2018/ [R=permanent,L]    
+    RewriteRule ^79$ /episodes/079-midwest-road-trip-2018/ [R=permanent,L]
+    RewriteRule ^80$ /episodes/080-sci-fi-news/ [R=permanent,L]
+    RewriteRule ^81$ /episodes/081-frugal-month-2018/ [R=permanent,L]
+    RewriteRule ^82$ /episodes/082-reasons-to-read-books/ [R=permanent,L]
+    RewriteRule ^83$ /episodes/083-frozen-pizzas/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------
