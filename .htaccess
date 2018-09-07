@@ -423,6 +423,10 @@ AddDefaultCharset utf-8
     RewriteRule ^81$ /episodes/081-frugal-month-2018/ [R=permanent,L]
     RewriteRule ^82$ /episodes/082-reasons-to-read-books/ [R=permanent,L]
     RewriteRule ^83$ /episodes/083-frozen-pizzas/ [R=permanent,L]
+    RewriteRule ^84$ /episodes/084-skills/ [R=permanent,L]
+    RewriteRule ^85$ /episodes/085-baby-essentials/ [R=permanent,L]
+    RewriteRule ^86$ /episodes/086-earworms/ [R=permanent,L]
+    RewriteRule ^87$ /episodes/087-fantasy-football-2018/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------

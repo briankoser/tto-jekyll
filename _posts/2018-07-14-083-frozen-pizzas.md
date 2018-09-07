@@ -65,6 +65,14 @@ tags: ['food']
         <td>Freschetta</td>
         <td>18</td>
     </tr>
+        <tr>
+        <td>Publix</td>
+        <td>18</td>
+    </tr>
+    <tr>
+        <td>Publix Premium</td>
+        <td>18</td>
+    </tr>
     <tr>
         <td>Tombstone</td>
         <td>19</td>
@@ -81,25 +89,17 @@ tags: ['food']
         <td>Screaming Sicilian</td>
         <td>27</td>
     </tr>
+        <tr>
+        <td>Digiorno</td>
+        <td>30</td>
+    </tr>
     <tr>
         <td>Big Flavor Thin Crust Pizza! (The Fresh Market)</td>
         <td>33</td>
     </tr>
     <tr>
-        <td>Digiorno (bacon, stuffed crust)</td>
-        <td>35</td>
-    </tr>
-    <tr>
         <td>Mia Fresca</td>
         <td>45</td>
-    </tr>
-    <tr>
-        <td>Publix</td>
-        <td>?</td>
-    </tr>
-    <tr>
-        <td>Publix Premium</td>
-        <td>?</td>
     </tr>
 </tbody>
 </table>
