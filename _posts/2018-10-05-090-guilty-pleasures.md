@@ -36,3 +36,10 @@ tags: ['movies', 'tv', 'songs', 'games', 'food']
 <li>Wheel of Time books</li>
 <li><a href="https://www.youtube.com/watch?v=ytpo1xyNn3o">Jingle Bell Rock</a></li>
 </ol>
+
+<h2>Notes</h2>
+<ul>
+<li><a href="https://www.youtube.com/watch?v=qjtQSMe0VeI">The White Room - Chris and Jack</a></li>
+<li><a href="https://www.youtube.com/watch?v=GvxkBJv1R4A">Perfect Timing Villain - Chris and Jack</a></li>
+<li><a href="https://www.youtube.com/watch?v=zlo0Vp5TU8Y">Movies in Space - Chris and Jack</a></li>
+</ul>
