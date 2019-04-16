@@ -434,6 +434,20 @@ AddDefaultCharset utf-8
     RewriteRule ^92$ /episodes/092-non-essential-kitchen-essentials/ [R=permanent,L]
     RewriteRule ^93$ /episodes/093-inherently-funny-words/ [R=permanent,L]
     RewriteRule ^94$ /episodes/094-comedy-movies/ [R=permanent,L]
+    RewriteRule ^95$ /episodes/095-pregnancy-and-post-partum-advice/ [R=permanent,L]
+    RewriteRule ^96$ /episodes/096-tv-show-intros/ [R=permanent,L]
+    RewriteRule ^97$ /episodes/097-games-to-play-on-the-dice-tower-cruise/ [R=permanent,L]
+    RewriteRule ^98$ /episodes/098-christmas-songs/ [R=permanent,L]
+    RewriteRule ^99$ /episodes/099-fantasy-football-2018-wrapup/ [R=permanent,L]
+    RewriteRule ^100$ /episodes/100-ten-to-one-episodes/ [R=permanent,L]
+    RewriteRule ^101$ /episodes/101-new-years-resolutions-2019/ [R=permanent,L]
+    RewriteRule ^102$ /episodes/102-movies-2018/ [R=permanent,L]
+    RewriteRule ^103$ /episodes/103-books-2018/ [R=permanent,L]
+    RewriteRule ^104$ /episodes/104-board-games-2018/ [R=permanent,L]
+    RewriteRule ^105$ /episodes/105-board-games-addendum-2019/ [R=permanent,L]
+    RewriteRule ^106$ /episodes/106-studio-c-videos/ [R=permanent,L]
+    RewriteRule ^107$ /episodes/107-rapsters/ [R=permanent,L]
+    RewriteRule ^108$ /episodes/108-animated-shows/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------
