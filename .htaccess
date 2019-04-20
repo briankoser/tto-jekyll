@@ -448,6 +448,7 @@ AddDefaultCharset utf-8
     RewriteRule ^106$ /episodes/106-studio-c-videos/ [R=permanent,L]
     RewriteRule ^107$ /episodes/107-rapsters/ [R=permanent,L]
     RewriteRule ^108$ /episodes/108-animated-shows/ [R=permanent,L]
+    RewriteRule ^109$ /episodes/109-movies-pre-1960/ [R=permanent,L]
 </IfModule>
 
 # ----------------------------------------------------------------------
